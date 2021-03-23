@@ -15,5 +15,5 @@ Train model and export predictions and ROC-AUC value.
 
 
 ## FC-DNA_H5-ROC_ConfMatrix.py
-Learn DNA short sequence patterns
+Learn DNA short sequence patterns.
 
